@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Virtual environment
+venv/
+env/
+
+# MacOS system files
+.DS_Store
+
+# Python file backups
+*.bak
+
+# Text file with names (created by the program)
+usernames.txt
